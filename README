@@ -1,0 +1,2 @@
+This is a Chrome Extension that can detect sexual harassment in Social media sites.
+It has been implemeted using ULMFiT and Inception V3, where ULMFiT detects harassment in text and Inception V3 is trained to detect offensive images.
